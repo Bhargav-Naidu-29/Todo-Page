@@ -65,10 +65,11 @@ This project is a simple **Todo List Application** built using HTML, CSS, and Ja
 
 ```
 .
+├── README.md          # Project description and instructions
 ├── index.html         # Main HTML file
 ├── todoCss.css        # Custom CSS file for styling
-├── todoJs.js          # JavaScript file for functionality
-└── README.md          # Project description and instructions
+└── todoJs.js          # JavaScript file for functionality
+
 ```
 
 ## Demo
